@@ -1,6 +1,6 @@
-# UnMarkr
+# UnMarkr | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dhruvpatel0503)
 
-A modern fullstack application that lets you turn any text in an image into editable text overlays—so you can change, add, or remove text while keeping the background consistent. Powered by deep learning and inpainting, UnMarkr makes image text as easy to edit as a design file.
+A modern fullstack application that lets you turn any text in an image into editable text overlays—so you can change, add, or remove text while keeping the background consistent. It uses advanced methods of Text Detection and Inpainting, UnMarkr makes image text as easy to edit as a design file.
 
 ---
 
@@ -23,17 +23,6 @@ UnMarkr is a web app that empowers you to:
 - **Smart Guides:** Alignment guides for precise placement
 - **Layer Control:** Change overlay stacking order (bring forward/back)
 - **Download:** Export your final, edited image as PNG
-
----
-
-## 📁 Folder Structure
-```
-UnMarkr/
-  backend/    # Python backend (Flask, CRAFT, LaMa, etc.)
-  frontend/   # React frontend (Vite, Tailwind, etc.)
-  .gitignore
-  README.md
-```
 
 ---
 
@@ -73,21 +62,7 @@ npm run dev
 5. Use the toolbar to style overlays and control their layer position.
 6. Download your final, customized image.
 
----
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-- Fork the repo
-- Create your feature branch (`git checkout -b feature/YourFeature`)
-- Commit your changes (`git commit -am 'Add some feature'`)
-- Push to the branch (`git push origin feature/YourFeature`)
-- Open a Pull Request
-
----
-
-## 📄 License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. 
+--- 
 
 ## Important Note About Running This Project
 
